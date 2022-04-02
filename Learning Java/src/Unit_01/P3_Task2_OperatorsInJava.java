@@ -5,7 +5,7 @@ package Unit_01;
  * 	for example: +,-,*,/
  * 	#types of operators in java
  * 		-Unary operators : {prefix and postfix}[a++,a--,++a,etc]
- * 		-Arithmatic operators: {*,-,/,+,%}
+ * 		-Arithmetic operators: {*,-,/,+,%}
  * 		-Shift operators: {<< , >>}
  * 		-relational operators: {> < <= >= !=
  * 		-Bitwise operators : {& ^ |}
