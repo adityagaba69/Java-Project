@@ -37,3 +37,19 @@ public class P2_Task02_ConstantsInJava {
 		return (a*b);
 	}
 }
+
+class Calculator {
+	
+	int a = 10;
+	
+	int add(int a, int b) {
+		
+		//System.out.println(Pi)
+		
+		return (a + b);
+	}
+	
+	int multi(int a, int b) {
+		return (a * b);
+	}
+}
