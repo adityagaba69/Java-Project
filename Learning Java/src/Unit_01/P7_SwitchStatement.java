@@ -25,5 +25,16 @@ class SwitchStatements {
 		
 		// Write Logic here!
 		
+		Scanner obj = new Scanner(System.in);
+		int num = obj.nextInt();
+		
+		switch(num) {
+		case 1:
+		case 2:
+		case 3:
+			default:
+				
+		}
+		
 	}
 }

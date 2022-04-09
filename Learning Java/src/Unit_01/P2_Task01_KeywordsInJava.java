@@ -39,5 +39,5 @@ class int{
 
 class ABC{
 	void Display() {
-		System.out("Another class!");
+		System.out.println("Another class!");
 }
