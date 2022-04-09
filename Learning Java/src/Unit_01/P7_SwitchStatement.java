@@ -23,7 +23,7 @@ public class P7_SwitchStatement {
 class SwitchStatements {
 	void switchStatements() {
 		
-		// Write Logic here!
+		
 			
 	}
 		
