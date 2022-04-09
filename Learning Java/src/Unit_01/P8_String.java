@@ -35,8 +35,16 @@ public class P8_String {
 class QuestionsOnString {
 
 	void palindromeOrNot(String s) {
-		// Write Logic Here!
-
+		StringBuilder sb = new StringBuilder(s);
+		sb.reverse();
+		String rev = sb.toString();
+		if(s.equals(rev)) {
+			System.out.println("String is palindrome");
+		}
+		else {
+			System.out.println("String is not palindrome");
+		}
+		
 	}
 
 	void reverseOfAString(String s) {
