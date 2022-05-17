@@ -1,4 +1,4 @@
-package Unit03;
+package Unit_03;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
